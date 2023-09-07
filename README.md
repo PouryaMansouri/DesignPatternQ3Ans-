@@ -1,4 +1,3 @@
-Certainly! Here's an example of how the code could be refactored using the Adapter design pattern for a senior developer:
 
 ```python
 # Corrected Code Snippet
